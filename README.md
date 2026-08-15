@@ -4,7 +4,7 @@
 
 🔗 View Interactive Power BI Dashboard:
 
-https://app.powerbi.com/view?r=eyJrIjoiZjBhNmY3NDMtZGRiMS00N2Q2LTllZDMtMjVlMGQ2ZTExYTNkIiwidCI6ImExNzMxZTY3LTM2ZmEtNDAxOC1hZGFjLTYwZjQ1MmFlYmViMiJ9
+https://app.powerbi.com/reportEmbed?reportId=94f4aabe-cf34-43ef-bb3f-d9811658cd16&autoAuth=true&ctid=a1731e67-36fa-4018-adac-60f452aebeb2
 
 ---
 
